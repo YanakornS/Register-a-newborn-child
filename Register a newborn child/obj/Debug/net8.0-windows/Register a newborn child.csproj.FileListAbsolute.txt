@@ -1,0 +1,19 @@
+C:\Users\Administrator\source\repos\Register a newborn child\Register a newborn child\bin\Debug\net8.0-windows\Register a newborn child.exe
+C:\Users\Administrator\source\repos\Register a newborn child\Register a newborn child\bin\Debug\net8.0-windows\Register a newborn child.deps.json
+C:\Users\Administrator\source\repos\Register a newborn child\Register a newborn child\bin\Debug\net8.0-windows\Register a newborn child.runtimeconfig.json
+C:\Users\Administrator\source\repos\Register a newborn child\Register a newborn child\bin\Debug\net8.0-windows\Register a newborn child.dll
+C:\Users\Administrator\source\repos\Register a newborn child\Register a newborn child\bin\Debug\net8.0-windows\Register a newborn child.pdb
+C:\Users\Administrator\source\repos\Register a newborn child\Register a newborn child\obj\Debug\net8.0-windows\Register_a_newborn_child.Form1.resources
+C:\Users\Administrator\source\repos\Register a newborn child\Register a newborn child\obj\Debug\net8.0-windows\Register_a_newborn_child.Form2.resources
+C:\Users\Administrator\source\repos\Register a newborn child\Register a newborn child\obj\Debug\net8.0-windows\Register_a_newborn_child.Form3.resources
+C:\Users\Administrator\source\repos\Register a newborn child\Register a newborn child\obj\Debug\net8.0-windows\Register a newborn child.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Register a newborn child\Register a newborn child\obj\Debug\net8.0-windows\Register a newborn child.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Register a newborn child\Register a newborn child\obj\Debug\net8.0-windows\Register a newborn child.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Register a newborn child\Register a newborn child\obj\Debug\net8.0-windows\Register a newborn child.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Register a newborn child\Register a newborn child\obj\Debug\net8.0-windows\Register a newborn child.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Register a newborn child\Register a newborn child\obj\Debug\net8.0-windows\Register a newborn child.dll
+C:\Users\Administrator\source\repos\Register a newborn child\Register a newborn child\obj\Debug\net8.0-windows\refint\Register a newborn child.dll
+C:\Users\Administrator\source\repos\Register a newborn child\Register a newborn child\obj\Debug\net8.0-windows\Register a newborn child.pdb
+C:\Users\Administrator\source\repos\Register a newborn child\Register a newborn child\obj\Debug\net8.0-windows\Register a newborn child.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Register a newborn child\Register a newborn child\obj\Debug\net8.0-windows\ref\Register a newborn child.dll
+C:\Users\Administrator\source\repos\Register a newborn child\Register a newborn child\obj\Debug\net8.0-windows\Register_a_newborn_child.Properties.Resources.resources
